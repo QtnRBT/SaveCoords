@@ -1,0 +1,9 @@
+name: Savecoords
+version: 1.0
+main: fr.quentin.savecoords.Savecoords
+api-version: 1.13
+authors: [ QUENTIN ]
+description: A plugin that allows you to save coordinates by sending them in a discord channel.
+commands:
+  save-coords:
+    description: The main command of the plugin.
